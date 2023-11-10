@@ -1,0 +1,4 @@
+name: PhantomPet
+version: '${project.version}'
+main: me._olios.phantompet.PhantomPet
+api-version: 1.20
